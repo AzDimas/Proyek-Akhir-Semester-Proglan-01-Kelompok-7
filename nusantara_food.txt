@@ -1,0 +1,10 @@
+NasiGoreng  20000
+Bakso       25000
+Soto        15000
+GadoGado    20000
+Rawon       15000
+Sate        20000
+Pempek      12000
+Gorengan    5000
+Rendang     17000
+Ketoprak    15000

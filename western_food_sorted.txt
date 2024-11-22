@@ -1,0 +1,8 @@
+Steak   80000
+Spaghetti   35000
+Sandwich   15000
+Pizza   75000
+Lasagna   35000
+HotDog   15000
+FrenchFries   15000
+Burger   20000

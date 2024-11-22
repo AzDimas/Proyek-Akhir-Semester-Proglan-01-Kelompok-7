@@ -1,0 +1,8 @@
+Gorengan   5000
+Pempek   12000
+Soto   15000
+Rawon   15000
+NasiGoreng   20000
+GadoGado   20000
+Sate   20000
+Bakso   25000

@@ -1,0 +1,8 @@
+Kofta   30000
+Palakpaneer   25000
+Tandoori   25000
+Curry   25000
+Aloogobi   20000
+Chanamasala   20000
+Panipuri   15000
+Samosa   10000
